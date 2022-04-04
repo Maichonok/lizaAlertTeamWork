@@ -1,2 +1,2 @@
 # lizaAlertTeamWork
-this is teamwork for YandexPracticum
+this is teamwork for YandexPracticum.
