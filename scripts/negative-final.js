@@ -9,7 +9,7 @@ backButton.addEventListener('click', function () {
 });
 
 goToCousresButton.addEventListener('click', function () {
-  document.location.href = 'https://mikhailmudrov.github.io/liza-project/index.html';
+  document.location.href = '../course.html';
 });
 
 const menuItemList = document.querySelectorAll(".sidebar-menu__item-list");
