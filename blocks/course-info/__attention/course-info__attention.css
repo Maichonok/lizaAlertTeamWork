@@ -1,0 +1,7 @@
+.course-info__attention {
+display: grid;
+  grid-template-columns: 30px 1fr;
+  padding: 0 32px;
+  justify-items: start;
+  align-items: start;
+}

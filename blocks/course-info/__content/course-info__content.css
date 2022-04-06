@@ -1,0 +1,10 @@
+.course-info__content {
+  display: grid;
+  grid-template-columns: 30px 1fr 120px;
+  row-gap: 16px;
+  padding: 32px;
+  justify-items: start;
+  align-items: center;
+
+
+}
