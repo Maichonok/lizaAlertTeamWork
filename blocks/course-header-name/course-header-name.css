@@ -1,0 +1,10 @@
+.course-header-name {
+  width: 100%;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 52px;
+  color: #212329;
+  grid-area: breadcrumbs;
+  margin: 0;
+}
