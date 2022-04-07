@@ -1,0 +1,9 @@
+.contents__item-list {
+    -webkit-transition: 0.25s all ease;
+    transition: 0.25s all ease;
+    list-style: none;
+}
+
+  .sidebar-menu__item-list:last-child {
+    padding-bottom: 0;
+}
