@@ -92,6 +92,7 @@
 @import url(../blocks/course-info/__description-param/course-info__description-param.css);
 @import url(../blocks/course-info/__attention/course-info__attention.css);
 @import url(../blocks/course-info/__attention-paragraph/course-info__attention-paragraph.css);
+@import url(../blocks/course-header-name/course-header-name.css);
 
 @import url(../blocks/sidebar-menu/sidebar-menu.css);
 @import url(../blocks/sidebar-menu/__item/sidebar-menu__item.css);
