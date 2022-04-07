@@ -1,4 +1,6 @@
 .content {
+  margin-left: 60px;
+  /* CHECK  */
   grid-area: content;
   max-width: 872px;
   box-sizing: border-box;

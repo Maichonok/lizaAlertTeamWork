@@ -1,4 +1,16 @@
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/content/content.css);
+
+/* contents */
+@import url(../blocks/contents/contents.css);
+@import url(../blocks/contents/__container/contents__container.css);
+@import url(../blocks/contents/__item/contents__item.css);
+@import url(../blocks/contents/__item-list/contents__item-list.css);
+@import url(../blocks/collapse/collapse.css);
+@import url(../blocks/section-list/__item/__item-container/section-list__item-container.css);
+
+
 @import url(../vendor/fonts/golos-text.css);
 
 @import url(../blocks/page/page.css);
