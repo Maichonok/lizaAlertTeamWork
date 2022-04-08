@@ -32,6 +32,7 @@
 @import url(../blocks/breadcrumbs/breadcrumbs.css);
 @import url(../blocks/breadcrumbs/__link/breadcrumbs__link.css);
 @import url(../blocks/breadcrumbs/__item/breadcrumbs__item.css);
+@import url(../blocks/breadcrumbs/__item/_overflow/breadcrumbs__item_overflow.css);
 @import url(../blocks/breadcrumbs/__list/breadcrumbs__list.css);
 
 @import url(../blocks/button/button.css);
