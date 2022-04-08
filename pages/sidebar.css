@@ -21,9 +21,11 @@
 @import url(../blocks/icon/__sidebar-menu/icon__sidebar-menu.css);
 @import url(../blocks/icon/__sidebar-menu/_rotated/icon__sidebar-menu_rotated.css);
 @import url(../blocks/icon/__lesson/icon__lesson.css);
+@import url(../blocks/icon/__lesson/_active/icon__lesson_active.css);
 @import url(../blocks/icon/__check-mark/icon__check-mark.css);
 @import url(../blocks/icon/__check-mark/_active/icon__check-mark_active.css);
 @import url(../blocks/icon/__webinar/icon__webinar.css);
+@import url(../blocks/icon/__webinar/_active/icon__webinar_active.css);
 @import url(../blocks/icon/_position/icon_position.css);
 @import url(../blocks/icon/__video/icon__video.css);
 @import url(../blocks/icon/__video/_active/icon__video_active.css);
