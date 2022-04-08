@@ -1,10 +1,6 @@
 .breadcrumbs__item {
   display: inline;
   list-style: none;
-  max-width: 544px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 
 .breadcrumbs__item:last-of-type {
