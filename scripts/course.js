@@ -5,12 +5,10 @@ depButtons.forEach((depButton) => {
   const parent = depButton.parentNode.parentNode;
   const parentContent = parent.querySelector('.text-area');
   depButton.addEventListener('click', () => {
-    parentContent.classList.toggle('text-area_opened');
-    if (parentContent.classList.contains('text-area_opened')) {
-      parentContent.style.height = parentContent.scrollHeight + "px";
+    parentContent.classList.toggle('text-area_hidden');
+    if (!parentContent.classList.contains('text-area_hidden')) {
       depButton.textContent = 'Свернуть';
     } else {
-      parentContent.style.height = null;
       depButton.textContent = 'Развернуть';
     };
     // Проверяем содержит ли секция аккорден
@@ -22,13 +20,6 @@ depButtons.forEach((depButton) => {
         accDepButtons.addEventListener('click', () => {
           accContent.classList.toggle('accordion__content_opened');
           accIcon.classList.toggle('accordion__icon_active');
-          if (accContent.classList.contains('accordion__content_opened')) {
-            parentContent.style.height = parentContent.scrollHeight + accContent.scrollHeight + "px";
-            accContent.style.height = accContent.scrollHeight + "px";
-          } else {
-            parentContent.style.height = parentContent.scrollHeight - accContent.scrollHeight + "px";
-            accContent.style.height = null;
-          };
         });
       });
     };

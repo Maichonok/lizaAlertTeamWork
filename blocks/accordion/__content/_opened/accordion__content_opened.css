@@ -1,4 +1,5 @@
 .accordion__content_opened {
-  margin: 0;
+  margin: 16px 0 0 0;
   opacity: 1;
+  max-height: 1000px;
 }
