@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../vendor/fonts/fonts.css);
+@import url(../vendor/fonts/golos-text.css);
 @import url(../blocks/content/content.css);
 
 /* contents */
@@ -27,6 +27,7 @@
 @import url(../blocks/section-background/section-background.css);
 @import url(../blocks/section-button/section-button.css);
 @import url(../blocks/section-list/section-list.css);
+@import url(../blocks/section-list/_styled/section-list_styled.css);
 @import url(../blocks/section-list/__condition/section-list__condition.css);
 @import url(../blocks/section-list/__item/section-list__item.css);
 @import url(../blocks/section-header/section-header.css);
