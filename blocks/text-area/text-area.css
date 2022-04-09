@@ -1,0 +1,6 @@
+.text-area {
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: all .6s ease-out;
+}

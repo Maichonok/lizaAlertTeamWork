@@ -1,0 +1,7 @@
+.accordion__icon {
+  background-image: url(../../../images/arrow.svg);
+  height: 24px;
+  width: 24px;
+  transform: scale(1, 1);
+  transition: transform .4s ease-out;
+}

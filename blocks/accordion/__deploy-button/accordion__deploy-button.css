@@ -1,0 +1,6 @@
+.accordion__deploy-button {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: 0.4s linear;
+}
