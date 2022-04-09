@@ -4,6 +4,7 @@
     overflow: hidden;
     -webkit-transition: 0.25s all ease;
     transition: 0.25s all ease;
+    padding-left: 0;
   }
 
   .sidebar-menu__item-list:last-child {

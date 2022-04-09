@@ -3,6 +3,7 @@
   text-decoration: none;
   color: inherit;
   padding-bottom: 0;
+  transition: opacity .5s ease;
 }
 
 .breadcrumbs__link:hover {
