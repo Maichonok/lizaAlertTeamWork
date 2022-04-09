@@ -1,0 +1,4 @@
+.accordion__content_opened {
+  margin: 0;
+  opacity: 1;
+}
