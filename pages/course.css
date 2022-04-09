@@ -100,7 +100,7 @@
 /* animation classes */
 
 @import url(../blocks/text-area/text-area.css);
-@import url(../blocks/text-area/_opened/text-area_opened.css);
+@import url(../blocks/text-area/_hidden/text-area_hidden.css);
 
 /* accordion classes */
 
