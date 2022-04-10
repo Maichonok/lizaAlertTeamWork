@@ -6,10 +6,6 @@
   border-bottom: 1px solid #e6e7eb;
 }
 
-.contents__item:first-child {
-  padding-top: 0;
-}
-
 .contents__item:last-child {
   padding-bottom: 0;
   border-bottom: none;
