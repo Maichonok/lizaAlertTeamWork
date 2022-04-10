@@ -15,6 +15,7 @@
 @import url(../blocks/sidebar-menu/__text/sidebar-menu__text.css);
 @import url(../blocks/sidebar-menu/__link/_active/sidebar-menu__link_active.css);
 @import url(../blocks/contents-text/contents-text.css);
+@import url(../blocks/sidebar-menu/__title/sidebar-menu__title.css);
 
 /* icon */
 @import url(../blocks/icon/icon.css);
