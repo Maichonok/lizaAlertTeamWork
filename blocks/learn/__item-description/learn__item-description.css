@@ -1,0 +1,7 @@
+.learn__item-description {
+  grid-area: description;
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+}
