@@ -1,0 +1,6 @@
+.breadcrumbs__item_overflow {
+  max-width: 544px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

@@ -1,0 +1,9 @@
+.section-list__item-sidebar-menu {
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 16px;
+}
+
+.section-list__item-sidebar-menu:last-child {
+  padding: 0;
+}

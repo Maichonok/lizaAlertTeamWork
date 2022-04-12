@@ -1,0 +1,11 @@
+.collapse {
+  height: 24px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #212329;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.learn__item {
+  list-style: none;
+  display: grid;
+  grid-template-areas: "pic title"
+"description description";
+  gap: 18px 12px;
+  grid-template-columns: 20px 1fr;
+  grid-template-rows: 24px 1fr;
+  justify-items: start;
+}

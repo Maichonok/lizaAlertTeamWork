@@ -1,0 +1,12 @@
+.icon {
+  height: 24px;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-right: 5px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-block;
+  width: 50px;
+}
+

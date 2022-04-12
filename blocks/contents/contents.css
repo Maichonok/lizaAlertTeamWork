@@ -1,0 +1,7 @@
+.contents {
+  /* grid-area: sidebar-menu; */
+  max-width: 872px;
+  box-sizing: border-box;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
