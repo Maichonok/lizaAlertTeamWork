@@ -1,0 +1,4 @@
+.learn__item-pic {
+  grid-area: pic;
+  padding: 3px 0 0 2px;
+}

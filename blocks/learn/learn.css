@@ -1,0 +1,9 @@
+.learn {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 32px auto 0;
+  padding: 0;
+  gap: 31px 24px;
+
+}
