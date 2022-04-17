@@ -108,4 +108,5 @@
 
 @import url(../blocks/sidebar-menu/__link/_active/sidebar-menu__link_active.css);
 @import url(../blocks/contents-text/contents-text.css);
-@import url(../blocks/section-list/__item/__item-sidebar-menu/section-list__item-sidebar-menu.css);
+@import url(../blocks/section-list__item-sidebar-menu/section-list__item-sidebar-menu.css);
+
