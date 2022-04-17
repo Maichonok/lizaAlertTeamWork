@@ -43,7 +43,7 @@
 @import url(../blocks/button/_width/button_width_narrow.css);
 @import url(../blocks/button/_width/button_width_regular.css);
 @import url(../blocks/button/_width/button_width_wide.css);
-@import url(../blocks/button/_width/button_width_wide-360.css);
+@import url(../blocks/button/_width/button_width_wide-profile.css);
 @import url(../blocks/button/__link/button__link.css);
 @import url(../blocks/button/__image/button__image.css);
 @import url(../blocks/button/__image/_position/button__image_position_left.css);
@@ -79,7 +79,7 @@
 @import url(../blocks/icon/__sidebar-menu/icon__sidebar-menu.css);
 @import url(../blocks/icon/__sidebar-menu/_rotated/icon__sidebar-menu_rotated.css);
 @import url(../blocks/icon/_position/icon_position.css);
-@import url(../blocks/icon/_size/icon_size-20.css);
+@import url(../blocks/icon/_size/icon_size-profile.css);
 @import url(../blocks/icon/__level/icon__level.css);
 @import url(../blocks/icon/__book/icon__book.css);
 @import url(../blocks/icon/__clock/icon__clock.css);
