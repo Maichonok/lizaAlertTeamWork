@@ -1,5 +1,4 @@
 .text-area {
   opacity: 1;
-  max-height: 2000px;
-  transition: all 0.6s ease-in-out;
+  transition: all .4s linear;
 }
