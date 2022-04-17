@@ -43,9 +43,9 @@
 @import url(../blocks/button/__image/_position/button__image_position_left.css);
 @import url(../blocks/button/__image/_position/button__image_position_right.css);
 
-@import url(../blocks/section-title-second/section-title-second.css);
-@import url(../blocks/section-subtitle-second/section-subtitle-second.css);
-@import url(../blocks/section-text-second/section-text-second.css);
+@import url(../blocks/section-title-text/section-title-text.css);
+@import url(../blocks/section-subtitle-text/section-subtitle-text.css);
+@import url(../blocks/section-text-description/section-text-description.css);
 
 @import url(../blocks/sidebar-menu/sidebar-menu.css);
 @import url(../blocks/section-background/section-background.css);
