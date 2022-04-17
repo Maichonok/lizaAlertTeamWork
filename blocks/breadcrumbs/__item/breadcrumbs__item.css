@@ -6,3 +6,8 @@
 .breadcrumbs__item:last-of-type {
   color: #9397a3;
 }
+
+.breadcrumbs__list .breadcrumbs__item + .breadcrumbs__item::before {
+  content: "\00a0\276F\00a0";
+  padding-left: 4px;
+}
