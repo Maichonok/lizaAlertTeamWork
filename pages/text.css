@@ -40,8 +40,8 @@
 @import url(../blocks/button/_width/button_width_regular.css);
 
 @import url(../blocks/button/__image/button__image.css);
-@import url(../blocks/button/__image/_position/button__image_position_left.css);
-@import url(../blocks/button/__image/_position/button__image_position_right.css);
+@import url(../blocks/button/__image/__prev/button__image__prev.css);
+@import url(../blocks/button/__image/__next/button__image__next.css);
 
 @import url(../blocks/section-title-text/section-title-text.css);
 @import url(../blocks/section-subtitle-text/section-subtitle-text.css);
