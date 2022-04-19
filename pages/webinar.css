@@ -19,7 +19,7 @@
 @import url(../blocks/section-title/section-title.css);
 
 @import url(../blocks/section-text/section-text.css);
-@import url(../blocks/section-text/_center/section-text_center.css);
+@import url(../blocks/section-text/_align/section-text_align_center.css);
 
 @import url(../blocks/section-background/section-background.css);
 
@@ -38,7 +38,6 @@
 @import url(../blocks/breadcrumbs/breadcrumbs.css);
 @import url(../blocks/breadcrumbs/__link/breadcrumbs__link.css);
 @import url(../blocks/breadcrumbs/__item/breadcrumbs__item.css);
-@import url(../blocks/breadcrumbs/__item/_overflow/breadcrumbs__item_overflow.css);
 @import url(../blocks/breadcrumbs/__list/breadcrumbs__list.css);
 
 @import url(../blocks/button/button.css);
@@ -63,15 +62,13 @@
 @import url(../blocks/icon/__circular-arrow/icon__circular-arrow.css);
 @import url(../blocks/icon/__lesson/icon__lesson.css);
 @import url(../blocks/icon/__radio/_active/icon__radio_active.css);
-@import url(../blocks/icon/__cross/icon__cross.css);
-@import url(../blocks/icon/__cross/_failure/icon__cross_failure.css);
 @import url(../blocks/icon/__sandglass/icon__sandglass.css);
 @import url(../blocks/icon/__test/icon__test.css);
 @import url(../blocks/icon/__video/_active/icon__video_active.css);
 @import url(../blocks/icon/__test/_active/icon__test_active.css);
 @import url(../blocks/icon/__sidebar-menu/icon__sidebar-menu.css);
 @import url(../blocks/icon/__sidebar-menu/_rotated/icon__sidebar-menu_rotated.css);
-@import url(../blocks/icon/_position/icon_position.css);
+@import url(../blocks/icon/_position/icon_position_leftcenter.css);
 @import url(../blocks/icon/__webinar/icon__webinar.css);
 @import url(../blocks/icon/__webinar/_active/icon__webinar_active.css);
 
@@ -97,7 +94,7 @@
 @import url(../blocks/contents-text/contents-text.css);
 @import url(../blocks/icon/icon.css);
 @import url(../blocks/icon/__sidebar-menu/icon__sidebar-menu.css);
-@import url(../blocks/icon/_position/icon_position.css);
+@import url(../blocks/icon/_position/icon_position_leftcenter.css);
 @import url(../blocks/icon/__check-mark/_active/icon__check-mark_active.css);
 @import url(../blocks/icon/__sidebar-menu/_rotated/icon__sidebar-menu_rotated.css);
 @import url(../blocks/icon/__lesson/_active/icon__lesson_active.css);
