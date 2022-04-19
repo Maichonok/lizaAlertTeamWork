@@ -1,0 +1,5 @@
+.accordion__content_opened {
+  padding-top: 16px;
+  margin: 0;
+  opacity: 1;
+}

@@ -1,0 +1,6 @@
+.sidebar-menu {
+  grid-area: sidebar-menu;
+  max-width: 424px;
+  box-sizing: border-box;
+}
+

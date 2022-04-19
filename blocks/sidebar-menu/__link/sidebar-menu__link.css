@@ -1,0 +1,11 @@
+.sidebar-menu__link {
+  text-decoration: none;
+  color: #212329;
+  display: flex;
+}
+
+
+.sidebar-menu__link:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

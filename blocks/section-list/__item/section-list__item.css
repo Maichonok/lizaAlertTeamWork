@@ -1,0 +1,11 @@
+.section-list__item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* align-items: center; */
+  padding: 0 0 16px;
+}
+
+.section-list__item:last-child {
+  padding: 0;
+}

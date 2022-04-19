@@ -1,0 +1,13 @@
+.breadcrumbs__list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0 0 8px;
+}
+
+@media screen and (max-width: 500px) {
+  .breadcrumbs__list {
+    padding: 10px;
+  }
+}
